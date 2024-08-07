@@ -1,14 +1,2 @@
-Modificando o texto 
-cat > justo.txt
-cler
-clear
-git clear
+Teste
 
-
-
-
-
-
-
-$ clear
-$ git clear
