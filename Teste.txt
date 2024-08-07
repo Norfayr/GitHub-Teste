@@ -1,0 +1,13 @@
+cat > justo.txt
+cler
+clear
+git clear
+
+
+
+
+
+
+
+$ clear
+$ git clear
