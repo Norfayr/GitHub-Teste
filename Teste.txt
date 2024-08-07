@@ -1,3 +1,4 @@
+Modificando o texto 
 cat > justo.txt
 cler
 clear
